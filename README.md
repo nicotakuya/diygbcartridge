@@ -8,7 +8,7 @@ Gameboy homebrew. 32KB flash memory Cartridge.
 
 gb_cart1.comp : Cartridge's PCB data for 'CADLUS X'.
 
-gb_wr.comp : Flash memory writer's PCB for 'CADLUS X'.
+gb_wr.comp : Flash memory writer's PCB data for 'CADLUS X'.
 
 wr.prg : Writing software for 'Pi STARTER(smileboom)'.
 
