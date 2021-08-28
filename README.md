@@ -6,11 +6,11 @@ GAMEBOY homebrew. 32KB flash memory Cartridge.
 
 ## files
 
-gb_cart1.comp : Cartridge's PCB data for 'CADLUS X'.
+gb_cart1.comp : Cartridge's PCB CAD data (for 'CADLUS X').
 
-gb_wr.comp : Flash memory writer's PCB data for 'CADLUS X'.
+gb_wr.comp : Flash memory writer's PCB CAD data (for 'CADLUS X').
 
-wr.prg : Writing software for 'Pi STARTER(smileboom)'.
+wr.prg : Writing software (for 'Pi STARTER').
 
 ## movie
 
