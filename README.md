@@ -2,7 +2,7 @@
 
 ## overview
 
-Gameboy homebrew. 32KB flash memory Cartridge.
+GAMEBOY homebrew. 32KB flash memory Cartridge.
 
 ## files
 
